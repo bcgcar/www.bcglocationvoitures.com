@@ -1,0 +1,476 @@
+Uri: https://code.jquery.com/ui/1.12.1/themes/base/images/ui-icons_444444_256x240.png
+File Name: G:\Zakaria\www.najmcar.com\ui\1.12.1\themes\base\images\ui-icons_444444_256x240.png
+Content Type: image/png
+
+Uri: https://code.jquery.com/ui/1.12.1/themes/base/images/ui-icons_555555_256x240.png
+File Name: G:\Zakaria\www.najmcar.com\ui\1.12.1\themes\base\images\ui-icons_555555_256x240.png
+Content Type: image/png
+
+Uri: https://code.jquery.com/ui/1.12.1/themes/base/images/ui-icons_777620_256x240.png
+File Name: G:\Zakaria\www.najmcar.com\ui\1.12.1\themes\base\images\ui-icons_777620_256x240.png
+Content Type: image/png
+
+Uri: https://code.jquery.com/ui/1.12.1/themes/base/images/ui-icons_777777_256x240.png
+File Name: G:\Zakaria\www.najmcar.com\ui\1.12.1\themes\base\images\ui-icons_777777_256x240.png
+Content Type: image/png
+
+Uri: https://code.jquery.com/ui/1.12.1/themes/base/images/ui-icons_cc0000_256x240.png
+File Name: G:\Zakaria\www.najmcar.com\ui\1.12.1\themes\base\images\ui-icons_cc0000_256x240.png
+Content Type: image/png
+
+Uri: https://code.jquery.com/ui/1.12.1/themes/base/images/ui-icons_ffffff_256x240.png
+File Name: G:\Zakaria\www.najmcar.com\ui\1.12.1\themes\base\images\ui-icons_ffffff_256x240.png
+Content Type: image/png
+
+Uri: https://code.jquery.com/ui/1.12.1/themes/base/jquery-ui.css
+File Name: G:\Zakaria\www.najmcar.com\ui\1.12.1\themes\base\jquery-ui.css
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800;900&family=Roboto:wght@100;300;400;500;700;900&display=swap
+File Name: G:\Zakaria\www.najmcar.com\css2
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/inter/v19/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuBWYMZg.ttf
+File Name: G:\Zakaria\www.najmcar.com\s\inter\v19\UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuBWYMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v19/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuDyYMZg.ttf
+File Name: G:\Zakaria\www.najmcar.com\s\inter\v19\UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuDyYMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v19/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuFuYMZg.ttf
+File Name: G:\Zakaria\www.najmcar.com\s\inter\v19\UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuFuYMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v19/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuGKYMZg.ttf
+File Name: G:\Zakaria\www.najmcar.com\s\inter\v19\UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuGKYMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v19/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuI6fMZg.ttf
+File Name: G:\Zakaria\www.najmcar.com\s\inter\v19\UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuI6fMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v19/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuLyfMZg.ttf
+File Name: G:\Zakaria\www.najmcar.com\s\inter\v19\UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuLyfMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v19/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuOKfMZg.ttf
+File Name: G:\Zakaria\www.najmcar.com\s\inter\v19\UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuOKfMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v47/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuaabWmT.ttf
+File Name: G:\Zakaria\www.najmcar.com\s\roboto\v47\KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuaabWmT.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v47/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWub2bWmT.ttf
+File Name: G:\Zakaria\www.najmcar.com\s\roboto\v47\KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWub2bWmT.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v47/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWubEbGmT.ttf
+File Name: G:\Zakaria\www.najmcar.com\s\roboto\v47\KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWubEbGmT.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v47/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWubEbWmT.ttf
+File Name: G:\Zakaria\www.najmcar.com\s\roboto\v47\KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWubEbWmT.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v47/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuYjammT.ttf
+File Name: G:\Zakaria\www.najmcar.com\s\roboto\v47\KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuYjammT.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v47/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuZtammT.ttf
+File Name: G:\Zakaria\www.najmcar.com\s\roboto\v47\KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuZtammT.ttf
+Content Type: font/ttf
+
+Uri: https://www.najmcar.com/
+File Name: G:\Zakaria\www.najmcar.com\index.htm
+Content Type: text/html
+
+Uri: https://www.najmcar.com/en
+File Name: G:\Zakaria\www.najmcar.com\en.html
+Content Type: text/html
+
+Uri: https://www.najmcar.com/en/
+File Name: G:\Zakaria\www.najmcar.com\en\index.htm
+Content Type: text/html
+
+Uri: https://www.najmcar.com/en/4x4
+File Name: G:\Zakaria\www.najmcar.com\en\4x4.html
+Content Type: text/html
+
+Uri: https://www.najmcar.com/en/cars
+File Name: G:\Zakaria\www.najmcar.com\en\cars.html
+Content Type: text/html
+
+Uri: https://www.najmcar.com/en/contact
+File Name: G:\Zakaria\www.najmcar.com\en\contact.html
+Content Type: text/html
+
+Uri: https://www.najmcar.com/en/minibus
+File Name: G:\Zakaria\www.najmcar.com\en\minibus.html
+Content Type: text/html
+
+Uri: https://www.najmcar.com/en/najmcar
+File Name: G:\Zakaria\www.najmcar.com\en\najmcar.html
+Content Type: text/html
+
+Uri: https://www.najmcar.com/en/rental-terms
+File Name: G:\Zakaria\www.najmcar.com\en\rental-terms.html
+Content Type: text/html
+
+Uri: https://www.najmcar.com/en/reservation
+File Name: G:\Zakaria\www.najmcar.com\en\reservation.html
+Content Type: text/html
+
+Uri: https://www.najmcar.com/fr
+File Name: G:\Zakaria\www.najmcar.com\fr.html
+Content Type: text/html
+
+Uri: https://www.najmcar.com/fr/
+File Name: G:\Zakaria\www.najmcar.com\fr\index.htm
+Content Type: text/html
+
+Uri: https://www.najmcar.com/fr/4x4
+File Name: G:\Zakaria\www.najmcar.com\fr\4x4.html
+Content Type: text/html
+
+Uri: https://www.najmcar.com/fr/cars
+File Name: G:\Zakaria\www.najmcar.com\fr\cars.html
+Content Type: text/html
+
+Uri: https://www.najmcar.com/fr/conditions-de-location
+File Name: G:\Zakaria\www.najmcar.com\fr\conditions-de-location.html
+Content Type: text/html
+
+Uri: https://www.najmcar.com/fr/contact
+File Name: G:\Zakaria\www.najmcar.com\fr\contact.html
+Content Type: text/html
+
+Uri: https://www.najmcar.com/fr/minibus
+File Name: G:\Zakaria\www.najmcar.com\fr\minibus.html
+Content Type: text/html
+
+Uri: https://www.najmcar.com/fr/najmcar
+File Name: G:\Zakaria\www.najmcar.com\fr\najmcar.html
+Content Type: text/html
+
+Uri: https://www.najmcar.com/fr/reservation
+File Name: G:\Zakaria\www.najmcar.com\fr\reservation.html
+Content Type: text/html
+
+Uri: https://www.najmcar.com/theme/assets/css/all-fontawesome.min.css
+File Name: G:\Zakaria\www.najmcar.com\theme\assets\css\all-fontawesome.min.css
+Content Type: text/css
+
+Uri: https://www.najmcar.com/theme/assets/css/animate.min.css
+File Name: G:\Zakaria\www.najmcar.com\theme\assets\css\animate.min.css
+Content Type: text/css
+
+Uri: https://www.najmcar.com/theme/assets/css/bootstrap.min.css
+File Name: G:\Zakaria\www.najmcar.com\theme\assets\css\bootstrap.min.css
+Content Type: text/css
+
+Uri: https://www.najmcar.com/theme/assets/css/flaticon.css
+File Name: G:\Zakaria\www.najmcar.com\theme\assets\css\flaticon.css
+Content Type: text/css
+
+Uri: https://www.najmcar.com/theme/assets/css/jquery-ui.min.css
+File Name: G:\Zakaria\www.najmcar.com\theme\assets\css\jquery-ui.min.css
+Content Type: text/css
+
+Uri: https://www.najmcar.com/theme/assets/css/magnific-popup.min.css
+File Name: G:\Zakaria\www.najmcar.com\theme\assets\css\magnific-popup.min.css
+Content Type: text/css
+
+Uri: https://www.najmcar.com/theme/assets/css/nice-select.min.css
+File Name: G:\Zakaria\www.najmcar.com\theme\assets\css\nice-select.min.css
+Content Type: text/css
+
+Uri: https://www.najmcar.com/theme/assets/css/owl.carousel.min.css
+File Name: G:\Zakaria\www.najmcar.com\theme\assets\css\owl.carousel.min.css
+Content Type: text/css
+
+Uri: https://www.najmcar.com/theme/assets/css/style.css
+File Name: G:\Zakaria\www.najmcar.com\theme\assets\css\style.css
+Content Type: text/css
+
+Uri: https://www.najmcar.com/theme/assets/fonts/fa-brands-400.ttf
+File Name: G:\Zakaria\www.najmcar.com\theme\assets\fonts\fa-brands-400.ttf
+Content Type: font/ttf
+
+Uri: https://www.najmcar.com/theme/assets/fonts/fa-brands-400.woff2
+File Name: G:\Zakaria\www.najmcar.com\theme\assets\fonts\fa-brands-400.woff2
+Content Type: font/woff2
+
+Uri: https://www.najmcar.com/theme/assets/fonts/fa-duotone-900.ttf
+File Name: G:\Zakaria\www.najmcar.com\theme\assets\fonts\fa-duotone-900.ttf
+Content Type: font/ttf
+
+Uri: https://www.najmcar.com/theme/assets/fonts/fa-duotone-900.woff2
+File Name: G:\Zakaria\www.najmcar.com\theme\assets\fonts\fa-duotone-900.woff2
+Content Type: font/woff2
+
+Uri: https://www.najmcar.com/theme/assets/fonts/fa-light-300.ttf
+File Name: G:\Zakaria\www.najmcar.com\theme\assets\fonts\fa-light-300.ttf
+Content Type: font/ttf
+
+Uri: https://www.najmcar.com/theme/assets/fonts/fa-light-300.woff2
+File Name: G:\Zakaria\www.najmcar.com\theme\assets\fonts\fa-light-300.woff2
+Content Type: font/woff2
+
+Uri: https://www.najmcar.com/theme/assets/fonts/fa-regular-400.ttf
+File Name: G:\Zakaria\www.najmcar.com\theme\assets\fonts\fa-regular-400.ttf
+Content Type: font/ttf
+
+Uri: https://www.najmcar.com/theme/assets/fonts/fa-regular-400.woff2
+File Name: G:\Zakaria\www.najmcar.com\theme\assets\fonts\fa-regular-400.woff2
+Content Type: font/woff2
+
+Uri: https://www.najmcar.com/theme/assets/fonts/fa-solid-900.ttf
+File Name: G:\Zakaria\www.najmcar.com\theme\assets\fonts\fa-solid-900.ttf
+Content Type: font/ttf
+
+Uri: https://www.najmcar.com/theme/assets/fonts/fa-solid-900.woff2
+File Name: G:\Zakaria\www.najmcar.com\theme\assets\fonts\fa-solid-900.woff2
+Content Type: font/woff2
+
+Uri: https://www.najmcar.com/theme/assets/fonts/fa-thin-100.ttf
+File Name: G:\Zakaria\www.najmcar.com\theme\assets\fonts\fa-thin-100.ttf
+Content Type: font/ttf
+
+Uri: https://www.najmcar.com/theme/assets/fonts/fa-thin-100.woff2
+File Name: G:\Zakaria\www.najmcar.com\theme\assets\fonts\fa-thin-100.woff2
+Content Type: font/woff2
+
+Uri: https://www.najmcar.com/theme/assets/fonts/fa-v4compatibility.ttf
+File Name: G:\Zakaria\www.najmcar.com\theme\assets\fonts\fa-v4compatibility.ttf
+Content Type: font/ttf
+
+Uri: https://www.najmcar.com/theme/assets/fonts/fa-v4compatibility.woff2
+File Name: G:\Zakaria\www.najmcar.com\theme\assets\fonts\fa-v4compatibility.woff2
+Content Type: font/woff2
+
+Uri: https://www.najmcar.com/theme/assets/fonts/flaticon.eot
+File Name: G:\Zakaria\www.najmcar.com\theme\assets\fonts\flaticon.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.najmcar.com/theme/assets/fonts/flaticon.svg
+File Name: G:\Zakaria\www.najmcar.com\theme\assets\fonts\flaticon.svg
+Content Type: image/svg+xml
+
+Uri: https://www.najmcar.com/theme/assets/fonts/flaticon.ttf
+File Name: G:\Zakaria\www.najmcar.com\theme\assets\fonts\flaticon.ttf
+Content Type: font/ttf
+
+Uri: https://www.najmcar.com/theme/assets/fonts/flaticon.woff
+File Name: G:\Zakaria\www.najmcar.com\theme\assets\fonts\flaticon.woff
+Content Type: font/woff
+
+Uri: https://www.najmcar.com/theme/assets/fonts/flaticon.woff2
+File Name: G:\Zakaria\www.najmcar.com\theme\assets\fonts\flaticon.woff2
+Content Type: font/woff2
+
+Uri: https://www.najmcar.com/theme/assets/img/breadcrumb/01.jpg
+File Name: G:\Zakaria\www.najmcar.com\theme\assets\img\breadcrumb\01.jpg
+Content Type: image/jpeg
+
+Uri: https://www.najmcar.com/theme/assets/img/contact.jpg
+File Name: G:\Zakaria\www.najmcar.com\theme\assets\img\contact.jpg
+Content Type: image/jpeg
+
+Uri: https://www.najmcar.com/theme/assets/img/en.png
+File Name: G:\Zakaria\www.najmcar.com\theme\assets\img\en.png
+Content Type: image/png
+
+Uri: https://www.najmcar.com/theme/assets/img/fr.png
+File Name: G:\Zakaria\www.najmcar.com\theme\assets\img\fr.png
+Content Type: image/png
+
+Uri: https://www.najmcar.com/theme/assets/img/location-voiture.png
+File Name: G:\Zakaria\www.najmcar.com\theme\assets\img\location-voiture.png
+Content Type: image/png
+
+Uri: https://www.najmcar.com/theme/assets/img/logo/favicon.png
+File Name: G:\Zakaria\www.najmcar.com\theme\assets\img\logo\favicon.png
+Content Type: image/png
+
+Uri: https://www.najmcar.com/theme/assets/img/logo/logo.png
+File Name: G:\Zakaria\www.najmcar.com\theme\assets\img\logo\logo.png
+Content Type: image/png
+
+Uri: https://www.najmcar.com/theme/assets/img/slider-1.jpg
+File Name: G:\Zakaria\www.najmcar.com\theme\assets\img\slider-1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.najmcar.com/theme/assets/img/slider-2.jpg
+File Name: G:\Zakaria\www.najmcar.com\theme\assets\img\slider-2.jpg
+Content Type: image/jpeg
+
+Uri: https://www.najmcar.com/theme/assets/img/slider-3.jpg
+File Name: G:\Zakaria\www.najmcar.com\theme\assets\img\slider-3.jpg
+Content Type: image/jpeg
+
+Uri: https://www.najmcar.com/theme/assets/img/slider-4.jpg
+File Name: G:\Zakaria\www.najmcar.com\theme\assets\img\slider-4.jpg
+Content Type: image/jpeg
+
+Uri: https://www.najmcar.com/theme/assets/img/tucson.png
+File Name: G:\Zakaria\www.najmcar.com\theme\assets\img\tucson.png
+Content Type: image/png
+
+Uri: https://www.najmcar.com/theme/assets/js/bootstrap.bundle.min.js
+File Name: G:\Zakaria\www.najmcar.com\theme\assets\js\bootstrap.bundle.min.js
+Content Type: application/javascript
+
+Uri: https://www.najmcar.com/theme/assets/js/counter-up.js
+File Name: G:\Zakaria\www.najmcar.com\theme\assets\js\counter-up.js
+Content Type: application/javascript
+
+Uri: https://www.najmcar.com/theme/assets/js/imagesloaded.pkgd.min.js
+File Name: G:\Zakaria\www.najmcar.com\theme\assets\js\imagesloaded.pkgd.min.js
+Content Type: application/javascript
+
+Uri: https://www.najmcar.com/theme/assets/js/isotope.pkgd.min.js
+File Name: G:\Zakaria\www.najmcar.com\theme\assets\js\isotope.pkgd.min.js
+Content Type: application/javascript
+
+Uri: https://www.najmcar.com/theme/assets/js/jquery-3.6.0.min.js
+File Name: G:\Zakaria\www.najmcar.com\theme\assets\js\jquery-3.6.0.min.js
+Content Type: application/javascript
+
+Uri: https://www.najmcar.com/theme/assets/js/jquery-ui.min.js
+File Name: G:\Zakaria\www.najmcar.com\theme\assets\js\jquery-ui.min.js
+Content Type: application/javascript
+
+Uri: https://www.najmcar.com/theme/assets/js/jquery.appear.min.js
+File Name: G:\Zakaria\www.najmcar.com\theme\assets\js\jquery.appear.min.js
+Content Type: application/javascript
+
+Uri: https://www.najmcar.com/theme/assets/js/jquery.easing.min.js
+File Name: G:\Zakaria\www.najmcar.com\theme\assets\js\jquery.easing.min.js
+Content Type: application/javascript
+
+Uri: https://www.najmcar.com/theme/assets/js/jquery.magnific-popup.min.js
+File Name: G:\Zakaria\www.najmcar.com\theme\assets\js\jquery.magnific-popup.min.js
+Content Type: application/javascript
+
+Uri: https://www.najmcar.com/theme/assets/js/jquery.nice-select.min.js
+File Name: G:\Zakaria\www.najmcar.com\theme\assets\js\jquery.nice-select.min.js
+Content Type: application/javascript
+
+Uri: https://www.najmcar.com/theme/assets/js/main.js
+File Name: G:\Zakaria\www.najmcar.com\theme\assets\js\main.js
+Content Type: application/javascript
+
+Uri: https://www.najmcar.com/theme/assets/js/modernizr.min.js
+File Name: G:\Zakaria\www.najmcar.com\theme\assets\js\modernizr.min.js
+Content Type: application/javascript
+
+Uri: https://www.najmcar.com/theme/assets/js/owl.carousel.min.js
+File Name: G:\Zakaria\www.najmcar.com\theme\assets\js\owl.carousel.min.js
+Content Type: application/javascript
+
+Uri: https://www.najmcar.com/theme/assets/js/wow.min.js
+File Name: G:\Zakaria\www.najmcar.com\theme\assets\js\wow.min.js
+Content Type: application/javascript
+
+Uri: https://www.najmcar.com/uploads/1718359255-peugeot_208.jpg
+File Name: G:\Zakaria\www.najmcar.com\uploads\1718359255-peugeot_208.jpg
+Content Type: image/jpeg
+
+Uri: https://www.najmcar.com/uploads/1718359696-dacia-duster.jpg
+File Name: G:\Zakaria\www.najmcar.com\uploads\1718359696-dacia-duster.jpg
+Content Type: image/jpeg
+
+Uri: https://www.najmcar.com/uploads/1718360808-c-elysee.jpg
+File Name: G:\Zakaria\www.najmcar.com\uploads\1718360808-c-elysee.jpg
+Content Type: image/jpeg
+
+Uri: https://www.najmcar.com/uploads/1718360960-dacia-logan.jpg
+File Name: G:\Zakaria\www.najmcar.com\uploads\1718360960-dacia-logan.jpg
+Content Type: image/jpeg
+
+Uri: https://www.najmcar.com/uploads/1728644735-301.jpg
+File Name: G:\Zakaria\www.najmcar.com\uploads\1728644735-301.jpg
+Content Type: image/jpeg
+
+Uri: https://www.najmcar.com/uploads/1728644793-clio5.jpg
+File Name: G:\Zakaria\www.najmcar.com\uploads\1728644793-clio5.jpg
+Content Type: image/jpeg
+
+Uri: https://www.najmcar.com/uploads/1728644920-express.jpg
+File Name: G:\Zakaria\www.najmcar.com\uploads\1728644920-express.jpg
+Content Type: image/jpeg
+
+Uri: https://www.najmcar.com/uploads/1728645000-lodgy.jpg
+File Name: G:\Zakaria\www.najmcar.com\uploads\1728645000-lodgy.jpg
+Content Type: image/jpeg
+
+Uri: https://www.najmcar.com/uploads/1728645071-jogger.jpg
+File Name: G:\Zakaria\www.najmcar.com\uploads\1728645071-jogger.jpg
+Content Type: image/jpeg
+
+Uri: https://www.najmcar.com/uploads/1728645227-tucson.jpg
+File Name: G:\Zakaria\www.najmcar.com\uploads\1728645227-tucson.jpg
+Content Type: image/jpeg
+
+Uri: https://www.najmcar.com/uploads/1728645317-sportage.jpg
+File Name: G:\Zakaria\www.najmcar.com\uploads\1728645317-sportage.jpg
+Content Type: image/jpeg
+
+Uri: https://www.najmcar.com/uploads/1728645382-jimny.jpg
+File Name: G:\Zakaria\www.najmcar.com\uploads\1728645382-jimny.jpg
+Content Type: image/jpeg
+
+Uri: https://www.najmcar.com/uploads/1728645391-jimny.jpg
+File Name: G:\Zakaria\www.najmcar.com\uploads\1728645391-jimny.jpg
+Content Type: image/jpeg
+
+Uri: https://www.najmcar.com/uploads/1728645549-pajero.jpg
+File Name: G:\Zakaria\www.najmcar.com\uploads\1728645549-pajero.jpg
+Content Type: image/jpeg
+
+Uri: https://www.najmcar.com/uploads/1728645590-prado.jpg
+File Name: G:\Zakaria\www.najmcar.com\uploads\1728645590-prado.jpg
+Content Type: image/jpeg
+
+Uri: https://www.najmcar.com/uploads/1728645672-touareg.jpg
+File Name: G:\Zakaria\www.najmcar.com\uploads\1728645672-touareg.jpg
+Content Type: image/jpeg
+
+Uri: https://www.najmcar.com/uploads/1728900793-trafic.jpg
+File Name: G:\Zakaria\www.najmcar.com\uploads\1728900793-trafic.jpg
+Content Type: image/jpeg
+
+Uri: https://www.najmcar.com/uploads/1728900892-mercedes.jpg
+File Name: G:\Zakaria\www.najmcar.com\uploads\1728900892-mercedes.jpg
+Content Type: image/jpeg
+
+Uri: https://www.najmcar.com/uploads/1728993755-c5.jpg
+File Name: G:\Zakaria\www.najmcar.com\uploads\1728993755-c5.jpg
+Content Type: image/jpeg
+
+Uri: https://www.najmcar.com/uploads/1728993833-duster2.jpg
+File Name: G:\Zakaria\www.najmcar.com\uploads\1728993833-duster2.jpg
+Content Type: image/jpeg
+
+Uri: https://www.najmcar.com/uploads/1728993993-tiguan.jpg
+File Name: G:\Zakaria\www.najmcar.com\uploads\1728993993-tiguan.jpg
+Content Type: image/jpeg
+
+Uri: https://www.najmcar.com/uploads/1729071239-c32.jpg
+File Name: G:\Zakaria\www.najmcar.com\uploads\1729071239-c32.jpg
+Content Type: image/jpeg
+
+Uri: https://www.najmcar.com/uploads/1729071395-logan2.jpg
+File Name: G:\Zakaria\www.najmcar.com\uploads\1729071395-logan2.jpg
+Content Type: image/jpeg
+
+Uri: https://www.najmcar.com/uploads/1729071535-sandero.jpg
+File Name: G:\Zakaria\www.najmcar.com\uploads\1729071535-sandero.jpg
+Content Type: image/jpeg
+
+Uri: https://www.najmcar.com/uploads/1729262812-c3nor.jpg
+File Name: G:\Zakaria\www.najmcar.com\uploads\1729262812-c3nor.jpg
+Content Type: image/jpeg
+
