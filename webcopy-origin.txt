@@ -111,7 +111,7 @@ File Name: G:\Zakaria\www.BCGLOCATIONVOITURES.com\en\minibus.html
 Content Type: text/html
 
 Uri: https://www.BCGLOCATIONVOITURES.com/en/BCGLOCATIONVOITURES
-File Name: G:\Zakaria\www.BCGLOCATIONVOITURES.com\en\BCGLOCATIONVOITURES.html
+File Name: G:\Zakaria\www.BCGLOCATIONVOITURES.com\en\bcglocationvoitures.html
 Content Type: text/html
 
 Uri: https://www.BCGLOCATIONVOITURES.com/en/rental-terms
@@ -151,7 +151,7 @@ File Name: G:\Zakaria\www.BCGLOCATIONVOITURES.com\fr\minibus.html
 Content Type: text/html
 
 Uri: https://www.BCGLOCATIONVOITURES.com/fr/BCGLOCATIONVOITURES
-File Name: G:\Zakaria\www.BCGLOCATIONVOITURES.com\fr\BCGLOCATIONVOITURES.html
+File Name: G:\Zakaria\www.BCGLOCATIONVOITURES.com\fr\bcglocationvoitures.html
 Content Type: text/html
 
 Uri: https://www.BCGLOCATIONVOITURES.com/fr/reservation
